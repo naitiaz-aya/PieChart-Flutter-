@@ -1,0 +1,633 @@
+{
+  "Full":[
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Total TV",
+      "Cible":"Individus 5+",
+      "PDA%":100.0,
+      "TM%":34.6,
+      "TME":10908,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Total TV",
+      "Cible":"Femmes 5 ans et +",
+      "PDA%":100.0,
+      "TM%":37.8,
+      "TME":5970,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Total TV",
+      "Cible":"Hommes 5 ans et +",
+      "PDA%":100.0,
+      "TM%":31.3,
+      "TME":4939,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Total TV",
+      "Cible":"Femmes 15 ans et +",
+      "PDA%":100.0,
+      "TM%":38.6,
+      "TME":4912,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Total TV",
+      "Cible":"Hommes 15 ans et +",
+      "PDA%":100.0,
+      "TM%":31.1,
+      "TME":3902,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"AL AOULA",
+      "Cible":"Individus 5+",
+      "PDA%":21.6,
+      "TM%":7.5,
+      "TME":2361,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"AL AOULA",
+      "Cible":"Femmes 5 ans et +",
+      "PDA%":22.4,
+      "TM%":8.5,
+      "TME":1340,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"AL AOULA",
+      "Cible":"Hommes 5 ans et +",
+      "PDA%":20.7,
+      "TM%":6.5,
+      "TME":1022,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"AL AOULA",
+      "Cible":"Femmes 15 ans et +",
+      "PDA%":23.0,
+      "TM%":8.9,
+      "TME":1129,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"AL AOULA",
+      "Cible":"Hommes 15 ans et +",
+      "PDA%":21.6,
+      "TM%":6.7,
+      "TME":844,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"2M",
+      "Cible":"Individus 5+",
+      "PDA%":15.8,
+      "TM%":5.5,
+      "TME":1725,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"2M",
+      "Cible":"Femmes 5 ans et +",
+      "PDA%":16.7,
+      "TM%":6.3,
+      "TME":996,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"2M",
+      "Cible":"Hommes 5 ans et +",
+      "PDA%":14.8,
+      "TM%":4.6,
+      "TME":729,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"2M",
+      "Cible":"Femmes 15 ans et +",
+      "PDA%":18.2,
+      "TM%":7.0,
+      "TME":894,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"2M",
+      "Cible":"Hommes 15 ans et +",
+      "PDA%":15.6,
+      "TM%":4.9,
+      "TME":611,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"AL MAGHRIBIA",
+      "Cible":"Individus 5+",
+      "PDA%":1.8,
+      "TM%":0.6,
+      "TME":200,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"AL MAGHRIBIA",
+      "Cible":"Femmes 5 ans et +",
+      "PDA%":1.9,
+      "TM%":0.7,
+      "TME":115,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"AL MAGHRIBIA",
+      "Cible":"Hommes 5 ans et +",
+      "PDA%":1.7,
+      "TM%":0.5,
+      "TME":85,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"AL MAGHRIBIA",
+      "Cible":"Femmes 15 ans et +",
+      "PDA%":2.0,
+      "TM%":0.8,
+      "TME":96,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"AL MAGHRIBIA",
+      "Cible":"Hommes 15 ans et +",
+      "PDA%":1.4,
+      "TM%":0.4,
+      "TME":53,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Autres chaines SNRT",
+      "Cible":"Individus 5+",
+      "PDA%":12.7,
+      "TM%":4.4,
+      "TME":1381,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Autres chaines SNRT",
+      "Cible":"Femmes 5 ans et +",
+      "PDA%":10.5,
+      "TM%":4.0,
+      "TME":627,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Autres chaines SNRT",
+      "Cible":"Hommes 5 ans et +",
+      "PDA%":15.3,
+      "TM%":4.8,
+      "TME":754,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Autres chaines SNRT",
+      "Cible":"Femmes 15 ans et +",
+      "PDA%":11.1,
+      "TM%":4.3,
+      "TME":548,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Autres chaines SNRT",
+      "Cible":"Hommes 15 ans et +",
+      "PDA%":16.3,
+      "TM%":5.1,
+      "TME":638,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Chaines SNRT",
+      "Cible":"Individus 5+",
+      "PDA%":36.1,
+      "TM%":12.5,
+      "TME":3942,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Chaines SNRT",
+      "Cible":"Femmes 5 ans et +",
+      "PDA%":34.9,
+      "TM%":13.2,
+      "TME":2082,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Chaines SNRT",
+      "Cible":"Hommes 5 ans et +",
+      "PDA%":37.7,
+      "TM%":11.8,
+      "TME":1860,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Chaines SNRT",
+      "Cible":"Femmes 15 ans et +",
+      "PDA%":36.1,
+      "TM%":13.9,
+      "TME":1773,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Chaines SNRT",
+      "Cible":"Hommes 15 ans et +",
+      "PDA%":39.3,
+      "TM%":12.2,
+      "TME":1535,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Total Autres Chaines",
+      "Cible":"Individus 5+",
+      "PDA%":48.0,
+      "TM%":16.6,
+      "TME":5241,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Total Autres Chaines",
+      "Cible":"Femmes 5 ans et +",
+      "PDA%":48.4,
+      "TM%":18.3,
+      "TME":2893,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Total Autres Chaines",
+      "Cible":"Hommes 5 ans et +",
+      "PDA%":47.6,
+      "TM%":14.9,
+      "TME":2349,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Total Autres Chaines",
+      "Cible":"Femmes 15 ans et +",
+      "PDA%":45.7,
+      "TM%":17.6,
+      "TME":2244,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Total Autres Chaines",
+      "Cible":"Hommes 15 ans et +",
+      "PDA%":45.0,
+      "TM%":14.0,
+      "TME":1757,
+      "prime_time":true
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Total TV",
+      "Cible":"Individus 5+",
+      "PDA%":100.0,
+      "TM%":16.6,
+      "TME":5225,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Total TV",
+      "Cible":"Femmes 5 ans et +",
+      "PDA%":100.0,
+      "TM%":18.3,
+      "TME":2890,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Total TV",
+      "Cible":"Hommes 5 ans et +",
+      "PDA%":100.0,
+      "TM%":14.8,
+      "TME":2336,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Total TV",
+      "Cible":"Femmes 15 ans et +",
+      "PDA%":100.0,
+      "TM%":18.4,
+      "TME":2335,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Total TV",
+      "Cible":"Hommes 15 ans et +",
+      "PDA%":100.0,
+      "TM%":14.2,
+      "TME":1785,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"AL AOULA",
+      "Cible":"Individus 5+",
+      "PDA%":13.0,
+      "TM%":2.1,
+      "TME":679,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"AL AOULA",
+      "Cible":"Femmes 5 ans et +",
+      "PDA%":13.2,
+      "TM%":2.4,
+      "TME":383,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"AL AOULA",
+      "Cible":"Hommes 5 ans et +",
+      "PDA%":12.7,
+      "TM%":1.9,
+      "TME":296,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"AL AOULA",
+      "Cible":"Femmes 15 ans et +",
+      "PDA%":13.8,
+      "TM%":2.5,
+      "TME":321,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"AL AOULA",
+      "Cible":"Hommes 15 ans et +",
+      "PDA%":13.6,
+      "TM%":1.9,
+      "TME":243,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"2M",
+      "Cible":"Individus 5+",
+      "PDA%":34.1,
+      "TM%":5.6,
+      "TME":1783,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"2M",
+      "Cible":"Femmes 5 ans et +",
+      "PDA%":36.4,
+      "TM%":6.7,
+      "TME":1052,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"2M",
+      "Cible":"Hommes 5 ans et +",
+      "PDA%":31.3,
+      "TM%":4.6,
+      "TME":732,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"2M",
+      "Cible":"Femmes 15 ans et +",
+      "PDA%":36.8,
+      "TM%":6.7,
+      "TME":859,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"2M",
+      "Cible":"Hommes 15 ans et +",
+      "PDA%":31.0,
+      "TM%":4.4,
+      "TME":554,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"AL MAGHRIBIA",
+      "Cible":"Individus 5+",
+      "PDA%":2.4,
+      "TM%":0.4,
+      "TME":128,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"AL MAGHRIBIA",
+      "Cible":"Femmes 5 ans et +",
+      "PDA%":2.4,
+      "TM%":0.4,
+      "TME":68,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"AL MAGHRIBIA",
+      "Cible":"Hommes 5 ans et +",
+      "PDA%":2.6,
+      "TM%":0.4,
+      "TME":60,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"AL MAGHRIBIA",
+      "Cible":"Femmes 15 ans et +",
+      "PDA%":2.6,
+      "TM%":0.5,
+      "TME":60,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"AL MAGHRIBIA",
+      "Cible":"Hommes 15 ans et +",
+      "PDA%":2.8,
+      "TM%":0.4,
+      "TME":50,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Autres chaines SNRT",
+      "Cible":"Individus 5+",
+      "PDA%":5.5,
+      "TM%":0.9,
+      "TME":289,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Autres chaines SNRT",
+      "Cible":"Femmes 5 ans et +",
+      "PDA%":4.7,
+      "TM%":0.9,
+      "TME":135,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Autres chaines SNRT",
+      "Cible":"Hommes 5 ans et +",
+      "PDA%":6.6,
+      "TM%":1.0,
+      "TME":154,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Autres chaines SNRT",
+      "Cible":"Femmes 15 ans et +",
+      "PDA%":5.0,
+      "TM%":0.9,
+      "TME":116,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Autres chaines SNRT",
+      "Cible":"Hommes 15 ans et +",
+      "PDA%":7.3,
+      "TM%":1.0,
+      "TME":130,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Chaines SNRT",
+      "Cible":"Individus 5+",
+      "PDA%":21.0,
+      "TM%":3.5,
+      "TME":1095,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Chaines SNRT",
+      "Cible":"Femmes 5 ans et +",
+      "PDA%":20.3,
+      "TM%":3.7,
+      "TME":586,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Chaines SNRT",
+      "Cible":"Hommes 5 ans et +",
+      "PDA%":21.8,
+      "TM%":3.2,
+      "TME":510,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Chaines SNRT",
+      "Cible":"Femmes 15 ans et +",
+      "PDA%":21.3,
+      "TM%":3.9,
+      "TME":497,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Chaines SNRT",
+      "Cible":"Hommes 15 ans et +",
+      "PDA%":23.7,
+      "TM%":3.4,
+      "TME":423,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Total Autres Chaines",
+      "Cible":"Individus 5+",
+      "PDA%":44.9,
+      "TM%":7.4,
+      "TME":2346,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Total Autres Chaines",
+      "Cible":"Femmes 5 ans et +",
+      "PDA%":43.3,
+      "TM%":7.9,
+      "TME":1252,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Total Autres Chaines",
+      "Cible":"Hommes 5 ans et +",
+      "PDA%":46.9,
+      "TM%":6.9,
+      "TME":1094,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Total Autres Chaines",
+      "Cible":"Femmes 15 ans et +",
+      "PDA%":41.9,
+      "TM%":7.7,
+      "TME":979,
+      "prime_time":false
+    },
+    {
+      "Date":"2021-06-16",
+      "Chaine":"Total Autres Chaines",
+      "Cible":"Hommes 15 ans et +",
+      "PDA%":45.3,
+      "TM%":6.4,
+      "TME":808,
+      "prime_time":false}
+  ]
+}
